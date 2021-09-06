@@ -1,2 +1,2 @@
 # Data-Structures
-Data-structures-with-JavaScript-and-Go
+Data-structures-with-JavaScript
