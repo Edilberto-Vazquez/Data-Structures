@@ -1,0 +1,24 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "Data-structures-with-JavaScript-and-Go",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edilberto-Vazquez/Data-Structures.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Data",
+    "Structures"
+  ],
+  "author": "Edilberto Vazquez Luna <edi_vazquez12@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Edilberto-Vazquez/Data-Structures/issues"
+  },
+  "homepage": "https://github.com/Edilberto-Vazquez/Data-Structures#readme"
+}
