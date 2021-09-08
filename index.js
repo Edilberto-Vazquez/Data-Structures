@@ -6,6 +6,8 @@ const Hashtable = require("./src/hashtable/hashtable");
 const linkedList = require("./src/linkedlist/singlyLinkedList");
 // Doubly Linked List
 const Doubly = require("./src/linkedlist/doubly");
+// Stack
+const Stack = require("./src/stacks/stack");
 
 // Arrays
 // const myArray = new MyArray();
@@ -42,9 +44,20 @@ const Doubly = require("./src/linkedlist/doubly");
 // console.log(mySinglelinkedList);
 
 // Doubly Linked List
-const myDoubly = new Doubly(0);
-myDoubly.append(1);
-myDoubly.append(2);
-myDoubly.append(3);
+// const myDoubly = new Doubly(0);
+// myDoubly.append(1);
+// myDoubly.append(2);
+// myDoubly.append(3);
+// console.log(myDoubly);
 
-console.log(myDoubly);
+// Stacks
+
+const myStack = new Stack();
+myStack.push(0);
+myStack.push(1);
+myStack.push(2);
+myStack.push(3);
+myStack.pop();
+myStack.pop();
+myStack.pop();
+console.log(myStack);
